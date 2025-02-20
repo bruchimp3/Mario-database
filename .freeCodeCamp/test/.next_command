@@ -71,3 +71,4 @@ git push -u origin main
 git push -u origin main --force
 clear
 echo hello PostgreSQL
+psql --username=freecodecamp --dbname=postgres
